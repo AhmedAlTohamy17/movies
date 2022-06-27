@@ -1,0 +1,10 @@
+.homediv {
+  background-image: url('../public/photo-1557682250-33bd709cbe85.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.but:hover {
+  background-color: lime;
+  color: white;
+}
